@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"mb3appbd37ab2b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

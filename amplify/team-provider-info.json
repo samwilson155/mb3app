@@ -10,6 +10,11 @@
             "StackName": "amplify-mb3app-app-163057",
             "StackId": "arn:aws:cloudformation:us-east-1:626845424962:stack/amplify-mb3app-app-163057/b9536900-85a9-11ea-ae67-1221171ce649",
             "AmplifyAppId": "d1p43wi8b238n7"
+        },
+        "categories": {
+            "auth": {
+                "mb3appbd37ab2b": {}
+            }
         }
     }
 }
